@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 ![profile](https://github.com/ntkathole/ntkathole/blob/master/profile1.png)
 
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntkathole&show_icons=true&theme=radical)](https://github.com/ntkathole?tab=repositories)
-
