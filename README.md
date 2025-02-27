@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![profile](https://github.com/ntkathole/ntkathole/blob/master/profile1.png)
 
-<h2 id="-currently-playing-wtih">🔭 Currently playing wtih</h2>
+<h2 id="-currently-playing-with">🔭 Currently playing with</h2>
 <p>
 <img src="https://img.shields.io/badge/Linux-informational?style=flat&amp;logo=linux&amp;logoColor=black&amp;color=2bbc8a" alt="">
 <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="">
